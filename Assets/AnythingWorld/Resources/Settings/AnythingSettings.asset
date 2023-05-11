@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c2b4b2b7b2b31044a113cfe7f4a4377, type: 3}
   m_Name: AnythingSettings
   m_EditorClassIdentifier: 
-  apiKey: 
+  apiKey: PH81WH5-697495H-G7QHNPQ-VFM18A0
   appName: My Anything World App
-  email: 
+  email: sarzmel93@gmail.com
   showDebugMessages: 0
